@@ -1,0 +1,6 @@
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\bin\Debug\KararYapilariyazilimkulubu.exe.config
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\bin\Debug\KararYapilariyazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\bin\Debug\KararYapilariyazilimkulubu.pdb
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\obj\Debug\KararYapilariyazilimkulubu.csprojResolveAssemblyReference.cache
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\obj\Debug\KararYapilariyazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\KararYapilariyazilimkulubu\KararYapilariyazilimkulubu\obj\Debug\KararYapilariyazilimkulubu.pdb
